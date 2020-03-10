@@ -1,1 +1,1 @@
-print("aasdasd")
+rint("aasdasd")
